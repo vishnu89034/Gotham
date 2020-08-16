@@ -1,0 +1,132 @@
+.title
+{
+  background-color: #f9ed69;
+  padding-top:1%;
+  padding-left:7%;
+  padding-right:7%;
+}
+body
+{
+  margin-top:10% ;
+    background-color: #f9ed69;
+}
+.title-image
+{
+  margin-top: 26px;
+  height:350px;
+
+  width:470px;
+}
+.nav-div{
+  padding:0 6%;
+  background-color: #f9ed69;
+}
+.brandi
+{
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
+}
+.navigation
+{
+  padding-top: 5%;
+  padding-left:9%;
+  padding-right:9%;
+  background-color: #f9ed69;
+
+}
+ @media (min-width:990px) {
+   img{
+   height:500px;
+       width:350px;
+       align-content: center;
+
+   }
+
+ }
+ .carim {
+   height: 400px;
+   width:300px;
+
+ }
+.div1
+{
+  padding:5% 15%;
+  text-align: center;
+}
+
+
+.headings{
+  font-size: 52;
+  font-family: 'Fjalla One', sans-serif;
+   color: #222831;
+}
+.headings2{
+  font-size: 22;
+  font-family: 'Fjalla One', sans-serif;
+   color: #222831;
+   padding-top:1.6%;
+    padding-bottom:2.5%;
+}
+.headings1{
+  font-size: 45;
+  font-family: 'Fjalla One', sans-serif;
+   color: #222831;
+   padding-top:2%;
+   padding-bottom:5%;
+}
+.headings3{
+  font-size: 20;
+  font-family: 'Fjalla One', sans-serif;
+   color: #fff;
+   padding-top:1.6%;
+    padding-bottom:2.5%;
+  }
+.iop{
+  font-size: 35;
+  font-family: 'Fjalla One', sans-serif;
+   color: #222831;
+}
+.iot
+{
+  font-size: 24;
+  font-family: 'Rubik', sans-serif;
+   color: #222831;
+}
+.spacing
+{
+  padding-bottom: 2%;
+}
+.second
+{
+  background-color: #f08a5d;
+  padding-top:1%;
+  padding-left:7%;
+  padding-right:7%;
+  padding-bottom:3%;
+   text-align: center;
+}
+.third
+{
+  background-color: #b83b5e;
+  padding-top:1%;
+  padding-left:7%;
+  padding-right:7%;
+  padding-bottom:3%;
+  text-align: center;
+
+}
+.fourth
+{
+  background-color: #6a2c70;
+  padding-top:1%;
+  padding-left:7%;
+  padding-right:7%;
+  padding-bottom:3%;
+  text-align: center;
+}
+.ic
+{
+  margin:20px 10px;
+  font-size: 12;
+  color: #fff;
+}
